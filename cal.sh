@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "project management in github"
 arr=('cat num1.txt','cat num2.txt')
 value1=${arr[0]}
 value2=${arr[1]}
